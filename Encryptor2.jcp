@@ -1,0 +1,22 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "Encryptor2"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := "\\classes"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "Encryptor2" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFile]SOURCE := "..\\AReader\\AR.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Encryptor2.java" #[EndFile]
+#[EndFolder]
