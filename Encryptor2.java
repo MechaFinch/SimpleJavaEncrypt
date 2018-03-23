@@ -2,8 +2,7 @@
  *3/20/2018
  *
  *Encryptor v2
- *Should be able to encrypt more than text
- *http://tutorials.jenkov.com/java-cryptography/cipher.html
+ *Should be able to encrypt more than text this time
  */
 
 import java.io.*;
