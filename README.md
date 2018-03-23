@@ -3,3 +3,5 @@ A simple program to encrypt/decrypt files with java. Uses java's crypto methods 
 
 To use, either run the .bat included with the .jar (to be added) or run the program in a command line by some method.
 Then enter the absolute file path, enter the file password, and choose weather to encrypt or decrypt.
+
+The bat and jar will be added later, I can't make them right now
